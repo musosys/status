@@ -1,5 +1,6 @@
 owner: musosys
 repo: status
+runner: self-hosted
 
 sites:
   - name: Musonet Cloud Main Site
