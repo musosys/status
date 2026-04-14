@@ -14,7 +14,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Site
+    - title: Main Site
       href: https://musonet.cloud
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
