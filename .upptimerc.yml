@@ -2,7 +2,7 @@ owner: musosys
 repo: status
 
 sites:
-  - name: Musonet Cloud
+  - name: Musonet Cloud Main Site
     url: https://musonet.cloud
     expectedStatusCodes:
       - 200
