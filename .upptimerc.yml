@@ -8,19 +8,22 @@ sites:
       - 200
       - 403
   - name: Infra Node 1
-    url: 10.10.0.50
-    port: 8006
-    check: tcp-ping
+    url: https://10.10.0.50:8006
+    allowInsecure: true
+    expectedStatusCodes:
+      - 200
     icon: https://img.icons8.com/fluency/96/proxmox.png
   - name: Infra Node 2
-    url: 10.10.0.51
-    port: 8006
-    check: tcp-ping
+    url: https://10.10.0.51:8006
+    allowInsecure: true
+    expectedStatusCodes:
+      - 200
     icon: https://img.icons8.com/fluency/96/proxmox.png
   - name: Infra Node 3
-    url: 10.10.0.54
-    port: 8006
-    check: tcp-ping
+    url: https://10.10.0.54:8006
+    allowInsecure: true
+    expectedStatusCodes:
+      - 200
     icon: https://img.icons8.com/fluency/96/proxmox.png
 
 status-website:
