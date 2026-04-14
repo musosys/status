@@ -1,22 +1,20 @@
 [
   {
-    "name": "Musonet Cloud",
+    "name": "Musonet Cloud Main Site",
     "url": "https://musonet.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/musonet.cloud.ico",
-    "slug": "musonet-cloud",
+    "slug": "musonet-cloud-main-site",
     "status": "up",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 90,
-    "timeDay": 90,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
-    "dailyMinutesDown": {
-      "2026-04-14": 142
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
+    "dailyMinutesDown": {}
   }
 ]
