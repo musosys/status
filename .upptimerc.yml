@@ -4,6 +4,7 @@ repo: status
 sites:
   - name: Musonet Cloud
     url: https://musonet.cloud
+    expectedStatus: 403
 
 status-website:
   baseUrl: /status
