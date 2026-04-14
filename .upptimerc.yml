@@ -14,12 +14,13 @@ status-website:
   introMessage: Real-time uptime monitoring for Musonet Cloud services, powered by GitHub Actions.
   navbar:
     - title: Status
-      href: /
+      href: https://musosys.github.io/status
     - title: Main Site
       href: https://musonet.cloud
       newTab: true
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      newTab: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
