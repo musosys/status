@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/musonet.cloud.ico",
     "slug": "musonet-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "8.58%",
+    "uptimeDay": "8.58%",
+    "uptimeWeek": "8.58%",
+    "uptimeMonth": "8.58%",
+    "uptimeYear": "8.58%",
     "time": 77,
     "timeDay": 77,
     "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   }
 ]
