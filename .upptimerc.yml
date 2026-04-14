@@ -8,12 +8,14 @@ sites:
 status-website:
   baseUrl: /status
   logoUrl: https://prod-assets.musonet.cloud/media/dark_color_main_logo02.png
-  name: Musonet Cloud Status
-  introTitle: "**Musonet Cloud Status**"
+  name: " "
+  introTitle: ""
   introMessage: Real-time uptime monitoring for Musonet Cloud services, powered by GitHub Actions.
   navbar:
     - title: Status
       href: /
+    - title: Site
+      href: https://musonet.cloud
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
