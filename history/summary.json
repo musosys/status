@@ -23,16 +23,18 @@
     "icon": "https://img.icons8.com/fluency/96/proxmox.png",
     "slug": "infra-cluster-01",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "3.13%",
+    "uptimeDay": "3.13%",
+    "uptimeWeek": "3.13%",
+    "uptimeMonth": "3.13%",
+    "uptimeYear": "3.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   }
 ]
