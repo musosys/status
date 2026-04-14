@@ -16,6 +16,7 @@ status-website:
       href: /
     - title: Main Site
       href: https://musonet.cloud
+      newTab: true
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
