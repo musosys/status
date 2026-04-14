@@ -11,17 +11,17 @@ sites:
     url: 10.10.0.50
     port: 8006
     check: tcp-ping
-    icon: https://img.icons8.com/fluency/48/proxmox.png
+    icon: https://img.icons8.com/fluency/96/proxmox.png
   - name: Infra Node 2
     url: 10.10.0.51
     port: 8006
     check: tcp-ping
-    icon: https://img.icons8.com/fluency/48/proxmox.png
+    icon: https://img.icons8.com/fluency/96/proxmox.png
   - name: Infra Node 3
     url: 10.10.0.54
     port: 8006
     check: tcp-ping
-    icon: https://img.icons8.com/fluency/48/proxmox.png
+    icon: https://img.icons8.com/fluency/96/proxmox.png
 
 status-website:
   baseUrl: /status
