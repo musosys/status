@@ -7,17 +7,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  - name: Infra Node 1
-    url: 10.10.0.50
-    check: ping
-    icon: https://img.icons8.com/fluency/96/proxmox.png
-  - name: Infra Node 2
-    url: 10.10.0.51
-    check: ping
-    icon: https://img.icons8.com/fluency/96/proxmox.png
-  - name: Infra Node 3
-    url: 10.10.0.54
-    check: ping
+  - name: Infra Cluster 01
+    url: https://infra.musosys.com
     icon: https://img.icons8.com/fluency/96/proxmox.png
 
 status-website:
