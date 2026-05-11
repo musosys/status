@@ -22,17 +22,19 @@
     "url": "https://infra.musosys.com",
     "icon": "https://img.icons8.com/fluency/96/proxmox.png",
     "slug": "infra-cluster-01",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "84.83%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 280,
-    "timeDay": 247,
-    "timeWeek": 361,
+    "timeDay": 261,
+    "timeWeek": 350,
     "timeMonth": 280,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-11": 218
+    }
   }
 ]
