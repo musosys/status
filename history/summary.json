@@ -4,18 +4,20 @@
     "url": "https://musonet.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/musonet.cloud.ico",
     "slug": "musonet-cloud-main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 2817,
-    "timeWeek": 969,
-    "timeMonth": 520,
-    "timeYear": 444,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.76%",
+    "time": 442,
+    "timeDay": 1998,
+    "timeWeek": 901,
+    "timeMonth": 515,
+    "timeYear": 442,
+    "dailyMinutesDown": {
+      "2026-05-14": 107
+    }
   },
   {
     "name": "Infra Cluster 01",
