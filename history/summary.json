@@ -28,7 +28,7 @@
     "url": "https://infra.musosys.com",
     "icon": "https://img.icons8.com/fluency/96/proxmox.png",
     "slug": "infra-cluster-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 241,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2026-05-25": 0,
       "2026-05-11": 218
     }
   }
